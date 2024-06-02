@@ -10,6 +10,5 @@ Features:
 
 --> Custom Styling: Enhanced with CSS
 
+Contributions are welcome! Fork the repository and submit pull requests for enhancements or bug fixes.
 
-Contributing:
-Fork and submit pull requests. Contributions are welcome!!
