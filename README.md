@@ -3,6 +3,7 @@ A dynamic and responsive timetable created using HTML Concepts.
 
 
 Features: 
+
 --> Organized Layout- Easy-to-navigate schedule.
 
 --> Responsive Design- Works on all devices.
